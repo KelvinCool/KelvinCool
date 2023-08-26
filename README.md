@@ -1,6 +1,7 @@
 <h1 align="center">Yo, I'm Kelvin</h1>
 <h3 align="center">Code is fun and suffering at the same time</h3>
-<img align="right" alt="Happy Cat" width="400 src ="https://media.tenor.com/BwArbEoCbncAAAAd/happy-dance-cat.gif">
+![diesfromcringe](https://github.com/KelvinCool/KelvinCool/assets/107605488/4cf02d14-22e0-405d-acb3-8793c519219d)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvincool&label=Profile%20views&color=0e75b6&style=flat" alt="kelvincool" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvincool" alt="kelvincool" /></a> </p>
