@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [-](-)
 
-- ⚡ Fun fact **No**
+- ⚡ Fun fact **No Rizz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
