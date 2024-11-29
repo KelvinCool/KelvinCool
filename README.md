@@ -1,6 +1,6 @@
-<h1 align="center">Yo, I'm Kelvin</h1>
-<h3 align="center">Code is fun and suffering at the same time</h3>
+<h1 align="center">Passionate in finance sector, looking to learn application of programming into finance like quant finance</h1>
 <h3 align="center">🏫 Monash University</h3> 
+<h3 align="center">Bachelor in Business and Commerce, Major in Banking & Finance and Fintech</h3> 
 
 
 
