@@ -2,8 +2,7 @@
 <h3 align="center">Code is fun and suffering at the same time</h3>
 <h3 align="center">🏫 Monash University</h3> 
 
-![diesfromcringe](https://github.com/KelvinCool/KelvinCool/assets/107605488/4cf02d14-22e0-405d-acb3-8793c519219d)
-Citation: (idk, 2023)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvincool&label=Profile%20views&color=0e75b6&style=flat" alt="kelvincool" /> </p>
 
